@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  background: rgb(22,39,214);
+  background: linear-gradient(90deg, rgba(22,39,214,1) 0%, rgba(17,159,38,1) 0%, rgba(11,62,20,1) 98%);
+  font-family: 'Red Rose', cursive;
+}
